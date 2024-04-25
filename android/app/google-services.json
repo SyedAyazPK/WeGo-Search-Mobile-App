@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285095864972",
+    "project_id": "socialmarketplace-ef302",
+    "storage_bucket": "socialmarketplace-ef302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285095864972:android:c1da4ec06b10da1139a9a9",
+        "android_client_info": {
+          "package_name": "com.socialmarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285095864972-hn1qauej4sghi0gek6d9dds26sqsupdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuwGqScjCKlvzKEmDWXC4_ri9xHLDSmuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285095864972-hn1qauej4sghi0gek6d9dds26sqsupdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

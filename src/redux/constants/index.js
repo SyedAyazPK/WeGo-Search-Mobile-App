@@ -1,0 +1,12 @@
+export const GENDER = 'GENDER';
+export const USER = 'USER';
+export const TOKEN = 'TOKEN';
+export const RADIUS_HISTORY = 'RADIUS_HISTORY'
+export const SERVICES = 'SERVICES';
+export const SEARCH_FRIEND_HISTORY = 'SEARCH_FRIEND_HISTORY'
+export const ACTIV_SCREEN = 'ACTIV_SCREEN'
+export const ALL_FRIENDS = 'ALL_FRIENDS'
+export const ALL_NOTIFICATION = 'ALL_NOTIFICATION'
+export const ALL_SEARCH_HISTORY = 'ALL_SEARCH_HISTORY'
+export const BID_SOCKET = 'BID_SOCKET'
+export const CURRENT_SCREEN = 'CURRENT_SCREEN'
